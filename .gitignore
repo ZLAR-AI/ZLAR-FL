@@ -1,0 +1,13 @@
+# Logs
+var/log/*.jsonl
+
+# Registry (contains local paths)
+etc/fleet-registry.json
+
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~
